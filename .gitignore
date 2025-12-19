@@ -1,0 +1,5 @@
+venv/
+torch_cache/
+data/
+*.pth
+__pycache__/
